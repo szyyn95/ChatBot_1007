@@ -2,7 +2,7 @@ DSGA 1007 Chatbot--botsfloor skeleton
 
 Ideas and reference: https://tutorials.botsfloor.com/how-to-build-your-first-chatbot-c84495d4622d
 
-All codes must be run under TenforFlow 1.01
+All codes must be run under TensorFlow 1.01
 
 To create an env with Python 3.5 and TF 1.01 in macOS Anaconda, execute the following commands in terminal:
 ```
